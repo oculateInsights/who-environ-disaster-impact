@@ -1,0 +1,1 @@
+web: bokeh serve — port=$PORT — allow-websocket-origin=who-environ-disaster-impacts.herokuapp.com — address=0.0.0.0 — use-xheaders who-environ-disaster-impacts.py
