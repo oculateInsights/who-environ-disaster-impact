@@ -1,1 +1,1 @@
-web: bokeh serve --port=$PORT --num-procs=0 --allow-websocket-origin=who-environ-disaster-impacts.herokuapp.com --address=0.0.0.0 --use-xheaders who-environ-disaster-impacts.py
+web: bokeh serve --port=$PORT --allow-websocket-origin=who-environ-disaster-impacts.herokuapp.com --address=0.0.0.0 --use-xheaders main.ipynb
